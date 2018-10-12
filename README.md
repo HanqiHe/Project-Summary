@@ -1,11 +1,5 @@
 # Project-Summary
 
-### What is my project?
-### What are my research target and research method?
-### What was the biggest challenge that I encountered? How did I overcome it?
-### What was the most interesting part of my project?
-### What are my research result(s) and conclusion(s)?
-### What have I learned in this project? Anything more I want to add?
 My project is to investigate economics analysis of online shopping based on data mining.    
 The investigation is done by data mining from major platforms for online shopping such as taobao.   
 Those data are then analysed using machine learning algorithms via python language, generating the most   
